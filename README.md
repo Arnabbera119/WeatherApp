@@ -37,6 +37,6 @@ Replace the `API_KEY` variable in `SearchBox.jsx` with your own API key.
 - Add more weather parameters (e.g., wind speed, visibility).
 
 ## Preview
-![HomePage](https://raw.githubusercontent.com/YourUsername/YourRepositoryName/branch-name/path-to-image/screenshot.png)
+![HomePage](./{074C7FFD-4679-48A3-BA83-72A2FA733BB4}.png)
 
 
